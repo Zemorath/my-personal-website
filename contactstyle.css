@@ -1,0 +1,24 @@
+#menu-outer {
+    height: 84px;
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+}
+
+ul#horizontal-list {
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+    font-size: 30px;
+    }
+    ul#horizontal-list li {
+        display: inline;
+        padding: 1em;
+    }
+
+    #background-edit {
+        background-image: url(./images/simpleBlack.jpg);
+        background-size: 100%;
+    }
