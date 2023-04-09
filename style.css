@@ -1,11 +1,11 @@
 @font-face {
     font-family: futrfw;
-    src: url(FUTRFW.TTF);
+    src: url(./fonts/FUTRFW.TTF);
 }
 
 @font-face {
     font-family: firstOrder;
-    src: url(firstorder.ttf);
+    src: url(./fonts/firstorder.ttf);
 }
 
 /*.container {
@@ -66,6 +66,6 @@ ul#horizontal-list {
 }
 
 #background-edit {
-    background-image: url(simpleBlack.jpg);
+    background-image: url(./images/simpleBlack.jpg);
     background-size: 100%;
 }
